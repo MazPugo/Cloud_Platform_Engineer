@@ -1,8 +1,0 @@
-|id |lastname|firstname  |email                   |city     |age|
-|---|--------|-----------|------------------------|---------|---|
-|1  |Carson  |Powell     |carson.powelll@gmail.com|Cambridge|32 |
-|2  |Martin  |Randall    |martin.randall@gmail.com|Warsow   |45 |
-|3  |Erica   |Gao        |erica.gao@gmail.com     |New York |50 |
-|4  |Kim     |Abercrombie|kim.abercombie@gmail.com|Chicago  |25 |
-|0  |Marzena |Pugo       |myemail@gmail.com       |London   |42 |
-|5  |Richard |Mowat      |richard.mowat@gmail.com |Berlin   |62 |
