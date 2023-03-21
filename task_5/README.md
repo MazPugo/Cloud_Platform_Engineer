@@ -1,0 +1,11 @@
+#question_3
+
+
+
+SELECT AVG(age)
+FROM dareit.students;
+
+
+
+
+42.6666666666666667
