@@ -1,0 +1,9 @@
+Choice
+
+
+I have chosen the way to build the web application with Google App Engine.
+
+I think that this is the most accessible way to create the web aplication. I have used at my work an html page that I have created 
+for my Kodilla Bootcam in Data Science
+
+I have tried to deploy kubernates and I have managed the create the cluster but I had some difficulties to finish the task.
